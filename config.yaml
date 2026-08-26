@@ -65,5 +65,7 @@ navbar:
     - path: /
       title: Home
   end:
+    - path: /archive
+      title: Archive
 
 
