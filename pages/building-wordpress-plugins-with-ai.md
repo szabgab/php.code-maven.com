@@ -7,10 +7,6 @@ description:
 tags:
 ---
 
-
-<a class="button is-primary" href="https://luma.com/1usglot9">register</a>
-
-
 # Abstract
 
 AI can generate PHP code in seconds, but generating code is not the same as engineering a reliable WordPress plugin.
@@ -28,3 +24,9 @@ The session includes a practical demonstration showing the complete journey from
 With more than 20 years of experience in software development, architecture, and artificial intelligence, he helps organizations adopt modern, specification-driven approaches to building reliable and scalable systems.
 
 Haim also provides professional training and strategic guidance to technology companies and has lectured at Bar-Ilan University, Ben-Gurion University, Reichman University, HIT, and the Technion.
+
+## Length
+
+45 min
+
+<a class="button is-primary" href="https://luma.com/1usglot9">register</a>
