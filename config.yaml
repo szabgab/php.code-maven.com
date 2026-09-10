@@ -21,8 +21,12 @@ from:
 show_related: true
 related_pages_title: Related Pages
 
-# TODO: Once we implement rtl site this will probably be the other direction too
-# TODO: Support also drop-down menus
+authors:
+  - name: Gabor Szabo
+    nickname: szabgab
+    picture: szabgab.png
+
+
 navbar:
   start:
     - path: /
