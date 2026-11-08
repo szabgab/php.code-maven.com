@@ -57,19 +57,32 @@ There are vaious other companies and organizations with their own page:
 | ------------------------------------------------------------------------------------------- | --------- |
 | [PHP](https://www.linkedin.com/company/phpnet/)                                             | 232,000 |
 | [WordPress](https://www.linkedin.com/company/wordpress/)                                    | 226,000 |
+| [Laravel News](https://www.linkedin.com/company/laravel-news/)                              | 145,000 |
+| [Laravel](https://www.linkedin.com/company/laravel/)                                        | 133,000 |
 | [The PHP Foundation](https://www.linkedin.com/company/phpfoundation/)                       |  31,000 |
 | [WordPress.com](https://www.linkedin.com/showcase/wordpress.com/)                           |  27,000 |
 | [Drupal Association](https://www.linkedin.com/company/drupal-association/)                  |  19,000 |
 | [Drupal](https://www.linkedin.com/company/drupal-project/)                                  |  14,000 |
 | [WordPress UK](https://www.linkedin.com/company/wordpress-uk/)                              |   8,300 |
+| [Laravel Artisans Community](https://www.linkedin.com/company/laravelartisans/)             |   4,700 |
+| [Laravel Ahmedabad Community](https://www.linkedin.com/company/laravel-ahmedabad/)          |   3,100 |
+| [Laravel France](https://www.linkedin.com/company/laravel-france/)                          |   2,900 |
 | [DrupalCon Europe](https://www.linkedin.com/company/drupalconeur/)                          |   2,400 |
 | [Drupal Developer Days](https://www.linkedin.com/company/drupaldevdays/)                    |   1,400 |
 | [Drupal Asia](https://www.linkedin.com/company/drupalasia/)                                 |     750 |
 | [DrupalCamp Spain](https://www.linkedin.com/showcase/drupalcamp-spain/)                     |     429 |
+| [Laravel Dubai](https://www.linkedin.com/company/laravel-dubai/)                            |     416 |
+| [Laravel Live UK](https://www.linkedin.com/company/laravel-live-uk/)                        |     396 |
 | [Drupal e.V. - The German Drupal Association](https://www.linkedin.com/company/drupal-ev/)  |     272 |
 | [DrupalCamp Italy](https://www.linkedin.com/company/drupalcampitaly/)                       |     263 |
 | [Drupal Mumbai](https://www.linkedin.com/company/drupal-mumbai/)                            |     256 |
+| [Laravel Ukraine](https://www.linkedin.com/company/laravelukraine/)                         |     197 |
+| [Laravel Greece](https://www.linkedin.com/company/laravel-greece/)                          |     190 |
 | [Drupal Colorado](https://www.linkedin.com/company/drupal-colorado/)                        |     125 |
 | [WordPress Dubai](https://www.linkedin.com/company/wordpress-dubai/)                        |     109 |
+| [Laravel Chennai Community](https://www.linkedin.com/company/laravel-chennai-community/)    |     107 |
+| [Laravel GN](https://www.linkedin.com/showcase/laravel-gn/)                                 |       7 |
+
+
 
 
