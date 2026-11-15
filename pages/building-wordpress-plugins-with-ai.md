@@ -7,7 +7,6 @@ description:
 tags:
 ---
 
-# Abstract
 
 AI can generate PHP code in seconds, but generating code is not the same as engineering a reliable WordPress plugin.
 
