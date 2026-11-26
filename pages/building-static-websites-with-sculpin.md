@@ -26,9 +26,27 @@ The examples focus on Sculpin, but the principles apply to static site generator
 * [Source code](https://code.oliverdavies.uk/sculpin-demo/commit/?h=20261125-php-maven) created during the presentation.
 * [No AI in DuckDuckGo](https://noai.duckduckgo.com/) skips the AI stuff. Mentioned during the chat.
 * [Speaking about Sculpin at PHP Maven](https://www.oliverdavies.uk/blog/speaking-about-sculpin-php-maven) the announcement Oliver made about this event.
+* [Packagist](https://packagist.org/) The PHP Package Repository
+* [Install composer](https://getcomposer.org/)
+* [nix](https://nix.dev/)
 
 
 {% youtube id="-UJef7EXOiY" file="2026-11-25-Building-static-websites-with-Sculpin-Oliver-Davies.mp4" %}
+
+## Timestamps
+
+* 00:00 Gabor introd
+* 01:40 Oliver Davies starts the presentation
+* 06:40 sculpin.io
+* 07:20 diagrams
+* 08:22 Static site generators
+* 09:55 Installing Sculpin `composer require sculpin/sculpin`
+* 11:03 Q: What is composer?
+* 12:27 Installing Sculpin with Nix
+* 13:47 Run `sculpin` command to show the version number.
+* 14:22 Sculpin 4
+* 15:11 Q: How long does it take to build your site?
+* 17:30 Start of the coding demo
 
 
 ## Transcript
