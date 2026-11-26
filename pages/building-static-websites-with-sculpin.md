@@ -29,13 +29,14 @@ The examples focus on Sculpin, but the principles apply to static site generator
 * [Packagist](https://packagist.org/) The PHP Package Repository
 * [Install composer](https://getcomposer.org/)
 * [nix](https://nix.dev/)
+* [PHPSW](https://phpsw.uk/) PHP South West UK. Bristol.
 
 
 {% youtube id="-UJef7EXOiY" file="2026-11-25-Building-static-websites-with-Sculpin-Oliver-Davies.mp4" %}
 
 ## Timestamps
 
-* 00:00 Gabor introd
+* 00:00 Gabor Szabo: introduction
 * 01:40 Oliver Davies starts the presentation
 * 06:40 sculpin.io
 * 07:20 diagrams
@@ -47,6 +48,9 @@ The examples focus on Sculpin, but the principles apply to static site generator
 * 14:22 Sculpin 4
 * 15:11 Q: How long does it take to build your site?
 * 17:30 Start of the coding demo
+* 18:50 PHPSW web site.
+* 19:27 `sculpin init`
+* 23:30 `sculpin generate`
 
 
 ## Transcript
